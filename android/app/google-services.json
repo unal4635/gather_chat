@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837953357175",
+    "project_id": "gather-chat-721fe",
+    "storage_bucket": "gather-chat-721fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837953357175:android:fab95a456aa0f559990d72",
+        "android_client_info": {
+          "package_name": "com.example.gather_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cWvef38DMMOMC9BlVMgYtEAQryzAVcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
